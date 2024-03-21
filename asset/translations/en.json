@@ -1,0 +1,9 @@
+{
+    "general": {
+        "navbar" : {
+          "home" : "Home",
+          "device" : "Devices",
+          "settings" : "Settings"
+        }
+    }
+}

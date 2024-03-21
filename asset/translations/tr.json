@@ -1,0 +1,9 @@
+{
+  "general": {
+    "navbar" : {
+      "home" : "Ana Sayfa",
+      "device" : "Cihazlar",
+      "settings" : "Ayarlar"
+    }
+  }
+}
